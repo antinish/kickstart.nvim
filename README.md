@@ -221,7 +221,7 @@ sudo dnf install -y gcc make git ripgrep fd-find unzip neovim
 </details>
 
 <details><summary>Arch Install Steps</summary>
-Test
+
 ```
 sudo pacman -S --noconfirm --needed gcc make git ripgrep fd unzip neovim
 ```
